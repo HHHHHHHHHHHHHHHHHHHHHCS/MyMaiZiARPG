@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMaiZiARPG.CSharp.Plugins", "MyMaiZiARPG.CSharp.Plugins.csproj", "{AE9C3CF5-C428-415B-0943-FED5FF3694AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMaiZiARPG.CSharp", "MyMaiZiARPG.CSharp.csproj", "{FD8B664A-5C24-357A-858C-45DDDB791E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9C3CF5-C428-415B-0943-FED5FF3694AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9C3CF5-C428-415B-0943-FED5FF3694AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9C3CF5-C428-415B-0943-FED5FF3694AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9C3CF5-C428-415B-0943-FED5FF3694AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8B664A-5C24-357A-858C-45DDDB791E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B664A-5C24-357A-858C-45DDDB791E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B664A-5C24-357A-858C-45DDDB791E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B664A-5C24-357A-858C-45DDDB791E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
